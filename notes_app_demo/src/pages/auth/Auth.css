@@ -1,0 +1,16 @@
+.auth {
+    /* box-sizing: border-box; */
+    margin: auto;
+    margin-top: 20px;
+    width: 50%;
+    border: 1px solid blue;
+    padding: 10px;
+}
+
+.auth * {
+    padding: 5px 5px;
+}
+
+.auth Button {
+    margin-top: 10px;
+}
